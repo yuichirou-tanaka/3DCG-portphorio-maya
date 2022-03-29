@@ -15,7 +15,7 @@ sourceimages/tex_kuma.tga
 # マスコット_ウサギ
 ## ファイル名
 ### maya binary
-scenes/220206mascot_kuma.mb
+scenes/220206mascot_usagi.mb
 ### texture
 sourceimages/tex_usagi.tga
 ## 制作日
