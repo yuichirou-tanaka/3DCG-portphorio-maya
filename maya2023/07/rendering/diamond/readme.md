@@ -10,7 +10,7 @@
 
 # file
 - [Maya2023バイナリファイル](230702_diamond.mb)
-- [ZBrushファイル]()
+- [ZBrushファイル](230702_diamond_05_material.zpr)
 
 # レンダリング画像
 ![rendering](rendering0702.jpg)
