@@ -13,4 +13,9 @@
 - [ZBrushファイル](230702_diamond_05_material.zpr)
 
 # レンダリング画像
+- Maya レンダリング
 ![rendering](rendering0702.jpg)
+
+- ZBrushモデリング
+![ZBrush material](image.png)
+![ZBrush Poly](image-1.png)
