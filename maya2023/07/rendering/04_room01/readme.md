@@ -9,9 +9,9 @@ AOVの設定は一部Sampling(diffuse_indirect)のみ、サンプリング多め
    - ライティングとレンダリング
 
 # file
-- [Maya2023バイナリファイル](my_0703_Chap04_Room_Start.0001.mb)
+- [Maya2023バイナリファイル](my_0703_Chap04_Room_Start.0002.mb)
 
 
 # レンダリング画像
 - Maya レンダリング
-![rendering 01](renderingimage_my5.jpg)
+![rendering 01](renderingimage_my7.jpg)
