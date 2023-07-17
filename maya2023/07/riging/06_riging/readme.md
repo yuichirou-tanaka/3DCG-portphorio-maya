@@ -5,7 +5,7 @@
 - Maya 2023
 
 # file
-[mayabinary](mayabinary/my0708_rigging_Chap06_Rigging_Start_15_animation.0002.mb)
+[mayabinary](mayabinary/my0708_rigging_Chap06_Rigging_Start_16_rig_freeze_animation.0002.mb)
 
 # スクリーンショット
 
