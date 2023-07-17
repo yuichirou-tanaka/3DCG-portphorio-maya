@@ -9,3 +9,4 @@
 
 # スクリーンショット
 
+![image](https://github.com/yuichirou-tanaka/3DCG-portphorio-maya/assets/80798265/6b55d308-4a88-42fa-97ed-8bfff78fe3ea)
